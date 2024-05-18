@@ -4,4 +4,5 @@ I wasn't able to complete Task 2 entirely but I have added some of the features 
 1. Making the navigation bar hoverable and functionable. Try clicking any of the tab in the nav. bar like news, world, politics, etc.
 2. Making the bigger articles in the middle hoverable.
 3. Making the sidebar with smaller articles hoverable as well as functionable. Try clicking on the content of those articles.
+
 Also, I have host the website on the Internet. You can view it using this link: https://harshmalik440.github.io/Harsh-CW24-WebD/
